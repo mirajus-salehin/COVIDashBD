@@ -1,15 +1,14 @@
 {
-  "name": "vuecharts",
+  "name": "COVIDashBD",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "scripts": {
     "test": "node"
   },
-  "author": "sayem",
+  "author": "Mirazus Salehin",
   "license": "ISC",
   "dependencies": {
-    "chart.js": "^2.9.3",
-    "vue-chartjs": "^3.5.0"
+    "chart.js": "^2.9.3"
   }
 }
