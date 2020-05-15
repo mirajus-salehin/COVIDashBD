@@ -6,7 +6,7 @@ View a demo [here](https://mirajus-salehin.github.io/COVIDashBD)
 This projects is still in development. So the full user documentation is not available.
 # Data source
 The data are collected from:
- - [Institute of Epidemiology, Disease Control and Research (IEDCR)](iedcr.gov.bd)
+ - [Institute of Epidemiology, Disease Control and Research (IEDCR)](https://www.iedcr.gov.bd/)
  - https://corona.gov.bd
 
  
